@@ -1,7 +1,7 @@
 ---
 id: introducing-jsx
 title: Знакомство с JSX
-permalink: docs/introducing-jsx.html
+permalink: docs/introducing-jsx.h
 prev: hello-world.html
 next: rendering-elements.html
 ---
